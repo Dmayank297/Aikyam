@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Saahas</string>
+    <string name="accessibility_service_description">This is required to access the phone\'s hardware such as volume button</string>
+</resources>
