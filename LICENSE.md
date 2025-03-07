@@ -1,6 +1,6 @@
 Copyright (C) [2025] [Mayank Dhaundiyal]
 
-This software and associated documentation files (the "Software") are the property of [YOUR NAME/COMPANY]. 
+This software and associated documentation files (the "Software") are the property of [Mayank Dhaundiyal]. 
 
 Unauthorized use, distribution, modification, or copying of this software, in whole or in part, is strictly prohibited.
 
