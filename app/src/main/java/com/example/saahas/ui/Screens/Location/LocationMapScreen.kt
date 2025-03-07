@@ -56,7 +56,7 @@ fun LocationMapScreen(
     var isSharing by remember { mutableStateOf(false) }
     val nearbyPlaces by viewModel.nearbyPlaces.observeAsState(emptyList())
     val routes by viewModel.routes.observeAsState(emptyList())
-    val apiKey = "AIzaSyBIsQj2EAsKnuTptNRqMgSnkAyoJu6d5Ww"
+    val apiKey = ""
 
     val errorMessage by viewModel.errorMessage.observeAsState()
     val scope = rememberCoroutineScope()

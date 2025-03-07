@@ -72,7 +72,7 @@ class VoiceBackgroundService : Service() {
         try {
             Log.d("VoiceBackgroundService", "Using access key: ${"YOUR_ACCESS_KEY".take(5)}...")
             porcupineManager = PorcupineManager.Builder()
-                .setAccessKey("HshBYZ0efb3EyJnoOvc9giDiidW+zK92fzGVHRjlGwS6r5Q/bjN4jw==")
+                .setAccessKey("")
                 .setKeywords(arrayOf(Porcupine.BuiltInKeyword.PORCUPINE, Porcupine.BuiltInKeyword.ALEXA))
                 .setSensitivities(floatArrayOf(0.7f, 0.7f))
                 .build(this) { wakeWordDetected(it) }

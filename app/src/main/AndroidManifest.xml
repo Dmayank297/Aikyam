@@ -36,7 +36,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBIsQj2EAsKnuTptNRqMgSnkAyoJu6d5Ww" />
+            android:value="" />
         <!-- Combined VolumeButtonService into a single declaration -->
         <service
             android:name=".SOSListenerService"
